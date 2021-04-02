@@ -1008,3 +1008,27 @@ header{
     transform: scale(1.5); 
 }
 
+/*-----------------------*/
+/*Pests*/
+/*-----------------------*/
+.section-rodentia{
+    background-color: #f4f4f4;
+}
+
+.discreption{
+    line-height: 145%;
+}
+
+
+.card h3{
+    font-weight: 700;
+}
+
+.card span{
+    line-height: 145%;
+    font-weight: 700;
+}
+
+.card p{
+    display: inline;    
+}
