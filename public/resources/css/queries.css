@@ -223,6 +223,14 @@
     .owner img {
         margin:0;
     }
+
+    .section-about :nth-child(2) {
+        flex-direction: column;
+    }
+
+    .section-about :nth-child(2) p {
+        width: 100%;
+    }
 }
 
 
